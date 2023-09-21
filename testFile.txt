@@ -7,8 +7,8 @@ Name:
 5.Manikanta Rayala
 6.Rohit Parvathala
 7.Inguva Raghava Kalyan
-8.
-9.Charan Vallurupalli
+8.Charan Vallurupalli
+9.
 10.
 11.
 12.
